@@ -4,7 +4,7 @@ You can use this program to manage Frekvens panel with an ESP8266.
 
 Please visit for hack : https://github.com/frumperino/FrekvensPanel
 
-Please visit for ESP8266 integration : 
+Please visit for ESP8266 integration : http://faire-ca-soi-meme.fr/hack/2020/07/31/hack-ikea-frekvens-panel-esp8266/
 
 This is a proof of concept
 
