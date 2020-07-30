@@ -9,7 +9,7 @@ Please visit for ESP8266 integration :
 This is a proof of concept
 
 ##Wiring
-<div ><img width="300px" src="https://github.com/fairecasoimeme/Frekvens_ESP8266/blob/master/cablage_frekvens.JPG" /><br><img width="300px" src="https://github.com/fairecasoimeme/fairecasoimeme/Frekvens_ESP8266/blob/master/NodeMCU_schema.png" /></div>
+<div ><img width="300px" src="https://github.com/fairecasoimeme/Frekvens_ESP8266/blob/master/cablage_frekvens.JPG" /><br><img width="300px" src="https://github.com/fairecasoimeme/Frekvens_ESP8266/blob/master/NodeMCU_schema.png" /></div>
 
 ##Installation
 * You have to upload code with Arduino IDE
