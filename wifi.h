@@ -1,0 +1,2 @@
+void setupWifiAP();
+bool setupSTAWifi();
