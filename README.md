@@ -8,9 +8,15 @@ Please visit for ESP8266 integration :
 
 This is a proof of concept
 
+##Wiring
+<div ><img width="300px" src="https://github.com/fairecasoimeme/Frekvens_ESP8266/blob/master/cablage_frekvens.JPG" /><br><img width="300px" src="https://github.com/fairecasoimeme/Frekvens_ESP8266/blob/master/NodeMCU_schema.png" /></div>
+
 ##Installation
 * You have to upload code with Arduino IDE
 * You have to upload SPIFFS data with tool : "ESP8266 Sketch upload data"
+* Select IKEA-XXXX SSID and password is adminXXXX
+* Open your web browser and enter http://192.168.4.1
+
 
 ## Version v0.1a
 
